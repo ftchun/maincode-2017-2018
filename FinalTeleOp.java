@@ -1,4 +1,3 @@
-// Importing the first package
 package org.firstinspires.ftc.teamcode;
 
 // Importing the information for
